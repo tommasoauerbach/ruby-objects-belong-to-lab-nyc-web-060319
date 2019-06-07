@@ -1,2 +1,2 @@
 class Posts
-  
+end
